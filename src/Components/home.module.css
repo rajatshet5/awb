@@ -1,0 +1,38 @@
+
+.home {
+    /* background-color: rgb(47, 45, 45); */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* background-image: url("./batman.JPG"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.note {
+    color: rgb(76, 71, 71);
+    font-size: 20px;
+}
+.awb {
+    color: rgb(178, 171, 171);
+    font-size: 40px;
+}
+.ph {
+    height: 80%;
+}
+.igLogoDiv {
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 80px;
+    /* width: 500px; */
+    margin: 0 auto;
+    padding: 10px;
+}
+.igLogo {
+    width: 50px;
+    height: 50px;
+}
+.gap {
+    width: 17px;
+}
