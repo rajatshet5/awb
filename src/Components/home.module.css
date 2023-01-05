@@ -9,11 +9,11 @@
     background-size: 100% 100%;
 }
 .note {
-    color: rgb(45, 41, 41);
+    color: rgb(30, 29, 29);
     font-size: 20px;
 }
 .awb {
-    color: rgb(158, 135, 135);
+    color: rgb(160, 154, 154);
     font-size: 20px;
     font-weight: 500;
 }
@@ -45,12 +45,12 @@
     align-items: center;
 }
 .sub p {
-    color: rgb(149, 142, 142);
+    color: rgb(62, 59, 59);
     font-size: 10px;
 }
 .sub h3 {
     width: 50px;
     font-size: 10px;
-    color: rgb(117, 110, 110);
+    color: rgb(62, 59, 59);
     font-weight: 300;
 }
