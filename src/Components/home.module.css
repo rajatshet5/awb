@@ -9,12 +9,13 @@
     background-size: 100% 100%;
 }
 .note {
-    color: rgb(76, 71, 71);
+    color: rgb(45, 41, 41);
     font-size: 20px;
 }
 .awb {
-    color: rgb(178, 171, 171);
-    font-size: 40px;
+    color: rgb(158, 135, 135);
+    font-size: 20px;
+    font-weight: 500;
 }
 .ph {
     height: 80%;
@@ -24,15 +25,32 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 80px;
+    height: 50px;
     /* width: 500px; */
     margin: 0 auto;
-    padding: 10px;
+    padding: 5px;
 }
 .igLogo {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
 }
 .gap {
     width: 17px;
+}
+.sub {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 3px;
+    align-items: center;
+}
+.sub p {
+    color: rgb(149, 142, 142);
+    font-size: 10px;
+}
+.sub h3 {
+    width: 50px;
+    font-size: 10px;
+    color: rgb(117, 110, 110);
+    font-weight: 300;
 }
